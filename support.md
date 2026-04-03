@@ -1,21 +1,18 @@
-# FlipJack Support
+# Lyhn Support
 
-Thanks for using FlipJack.
+Thanks for using Lyhn.
 
-FlipJack is a split-flap music display app for iPhone, built with Swift and Core Animation.
+Lyhn helps you record headache episodes, review patterns over time, and export a clear history to discuss with your doctor.
 
 ## Need help?
 
 For support, bug reports, or feature requests, please contact:
 
-**Email:** your-email@example.com
+**Email:** support@lyhnapp.com
 
 ## Helpful Links
 
-- [FlipJack Privacy Policy](./privacy)
-- [Using Qobuz with FlipJack via Last.fm](./using-qobuz-with-flipjack-via-lastfm)
-- [Using Tidal with FlipJack via Last.fm](./using-tidal-with-flipjack-via-lastfm)
-- [FlipJack Roon Bridge Instructions](./flipjack-roon-bridge-instructions)
+- [Lyhn Privacy Policy](./privacy)
 
 ## Common topics
 
@@ -28,11 +25,6 @@ For support, bug reports, or feature requests, please contact:
 - Close other apps using heavy system resources.
 - Restart the app.
 - Make sure your device is updated to the latest available iOS version.
-
-### Music display is not updating as expected
-- Confirm that the music source is active and playing.
-- Close and reopen FlipJack.
-- Check any permissions the app may request.
 
 ## Developer
 
