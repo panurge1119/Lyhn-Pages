@@ -8,8 +8,10 @@ Lyhn is a personal headache tracking app that helps you record headache episodes
 
 ## Quick Links
 
-- [Support](/Lyhn-Pages/support.html)
-- [Privacy Policy](/Lyhn-Pages/privacy.html)
+## Quick Links
+
+- [Support](support.html)
+- [Privacy Policy](privacy.html)
 
 ## What Lyhn Helps You Do
 
